@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<info>
+    <id>files_hdrive</id>
+    <name>Files H-Drive</name>
+    <description>Files H-Drive Integration</description>
+    <licence>AGPL</licence>
+    <author>Begood Technology Corp.</author>
+    <require>6.0</require>
+    <types>
+        <filesystem/>
+    </types>
+</info>
