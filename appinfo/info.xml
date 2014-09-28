@@ -5,7 +5,7 @@
     <description>Files H-Drive Integration</description>
     <licence>AGPL</licence>
     <author>Begood Technology Corp.</author>
-    <require>6.0</require>
+    <require>7.0</require>
     <types>
         <filesystem/>
     </types>

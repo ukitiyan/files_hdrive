@@ -5,14 +5,6 @@
 * not running On Windows
 * set files_hdrive App
 
-# Settings:
-insert oc_appconfig
- 
-    insert into oc_appconfig values ('files_hdrive', 'host', '10.0.0.1'); // AD's Host
-    insert into oc_appconfig values ('files_hdrive', 'shar', '/R_AllUsers'); // Shared Directory
-    insert into oc_appconfig values ('files_hdrive', 'mountpoint', 'MyDocument'); // Display Directory Name
-    insert into oc_appconfig values ('files_hdrive', 'group', 'Group001'); // Enable Function Group
-
 # Description:
 When performing the Folder Redirection, folder for each user will be exclusive.
 There is a problem at that time

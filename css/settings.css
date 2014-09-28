@@ -1,0 +1,21 @@
+#hdrive td.status > span {
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+	vertical-align: text-bottom;
+}
+
+#hdrive td.configuration,
+#hdrive td.backend {
+	white-space: normal;
+}
+
+#hdrive td.applicable div.chzn-container {
+	position: relative;
+	top: 3px;
+}
+
+#hdrive td.status .success {
+	border-radius: 50%;
+}
+
